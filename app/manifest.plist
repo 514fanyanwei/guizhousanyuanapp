@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ftp://FTP_USER:psw_123456@192.168.1.61:21/data/versions/lmpp/GuizhouMobileApp2.ipa</string>
+					<string>https://raw.githubusercontent.com/514fanyanwei/guizhousanyuanapp/master/app/GuizhouMobileApp2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
